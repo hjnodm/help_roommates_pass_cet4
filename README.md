@@ -1,4 +1,4 @@
-# helproommatespasscet4
+# help-roommates-pass-cet4
 
 A new Flutter application.
 
