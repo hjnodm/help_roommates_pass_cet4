@@ -43,7 +43,7 @@ class DictionaryState extends State<Dictionary> {
 
   _onSubmit(e) async {
     final String val = controller.text;
-    String temp = '20210825000926303$val' + '1435660288kA9vmi8W2Kw1Mx_4oEZu';
+    String temp = '百度翻译api密钥$val' + '百度翻译api密钥';
 //    print(temp);
     String md5 = Md5Util.generateMd5(temp);
     final response = await get(
