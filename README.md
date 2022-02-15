@@ -2,6 +2,11 @@
 
 A new Flutter application.
 
+一款基于flutter背单词的APP
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
