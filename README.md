@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-一款基于flutter背单词的APP
+一款基于flutter的背单词的APP
 
 ![image](https://user-images.githubusercontent.com/69035201/154077652-260f7ec7-0290-4e6b-a028-f542ca1ae6ad.png)
 ![image](https://user-images.githubusercontent.com/69035201/154077685-e9f6a714-de24-4b6b-99ba-76635e840f61.png)
