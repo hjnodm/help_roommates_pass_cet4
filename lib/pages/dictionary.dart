@@ -48,7 +48,7 @@ class DictionaryState extends State<Dictionary> {
     String md5 = Md5Util.generateMd5(temp);
     final response = await get(
         'https://api.fanyi.baidu.com/api/trans/vip/translate?q=$val' +
-            '&from=en&to=zh&appid=20210825000926303&salt=1435660288&sign=$md5');
+            '&from=en&to=zh&appid=ncaa&salt=1435660288&sign=$md5');
     setState(() {
       if (val.isEmpty) {
         curWord = null;
